@@ -48,6 +48,3 @@ nextNode.addEventListener('click', async function() {
 
     root.style.setProperty('--primary-color', getRandomItem(colors))    
 });
-
-// https://codepen.io/hezag/pen/ZGxOLX
-// sinyakov.com/frontend
